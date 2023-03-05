@@ -102,7 +102,7 @@ WHERE
 ---
 ## Step 4: Create Sales Dashboard
 
-Link view the interactive dashboard: <url>https://bit.ly/3ZExgPF<\url>
+Link view the interactive dashboard: <url = "https://bit.ly/3ZExgPF">
 
 <p align="center">
 <img src="https://github.com/LotteyPham/Power-BI/blob/main/Sales%20Analysis%20-%20AdventureWork/Image/SalesPage.jpg" align="center">
